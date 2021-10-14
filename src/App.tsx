@@ -2,7 +2,9 @@ import React from 'react';
 
 const App: React.FC = () => {
     return (
-        <div>React boilerplate bi javid</div>
+        <div>
+            React boilerplate bi javid
+        </div>
     )
 }
 
